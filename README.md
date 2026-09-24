@@ -1,4 +1,4 @@
-# droid-sales-tracker
+
 # Droid Sales Tracker
 
 A simple sales pipeline tracker used to test Factory.ai Droid.
